@@ -1,0 +1,500 @@
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:    9885.265
+                                                          INTERVAL:    9885.265
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.1013   0.100092         0.013       10000         0    1043
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   12345.481
+                                                          INTERVAL:    2460.216
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.4084   0.100468         0.288       10000         0    4152
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   14031.505
+                                                          INTERVAL:    1686.024
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.5832   0.098326         0.823       10000         0    5822
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   15549.253
+                                                          INTERVAL:    1517.748
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.6509   0.098788         1.243       10000         0    6436
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   16982.088
+                                                          INTERVAL:    1432.834
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7016   0.100526         1.558       10000         0    6900
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   18367.281
+                                                          INTERVAL:    1385.193
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7158   0.099149         1.846       10000         0    7208
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   19706.352
+                                                          INTERVAL:    1339.072
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7467   0.099992         2.255       10000         0    7485
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   20993.930
+                                                          INTERVAL:    1287.578
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7815   0.100630         2.523       10000         0    7718
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   22255.876
+                                                          INTERVAL:    1261.947
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7814   0.098609         3.079       10000         0    7865
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   23506.180
+                                                          INTERVAL:    1250.304
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7954   0.099451         3.176       10000         0    7978
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:    9899.254
+                                                          INTERVAL:    9899.254
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.1009   0.099911         0.012       10000         0    1002
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   12420.584
+                                                          INTERVAL:    2521.329
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.3896   0.098236         0.232       10000         0    3828
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   14095.846
+                                                          INTERVAL:    1675.262
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.6007   0.100635         0.862       10000         0    5981
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   15610.142
+                                                          INTERVAL:    1514.296
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.6598   0.099918         1.233       10000         0    6603
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   17024.181
+                                                          INTERVAL:    1414.040
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7102   0.100423         1.719       10000         0    7112
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   18429.527
+                                                          INTERVAL:    1405.346
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.6956   0.097762         1.738       10000         0    6927
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   19789.587
+                                                          INTERVAL:    1360.060
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7335   0.099765         1.861       10000         0    7331
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   21082.177
+                                                          INTERVAL:    1292.590
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7753   0.100220         2.766       10000         0    7729
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   22336.669
+                                                          INTERVAL:    1254.492
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.8026   0.100685         2.988       10000         0    7955
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   23596.229
+                                                          INTERVAL:    1259.560
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7953   0.100174         2.873       10000         0    7955
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   10143.566
+                                                          INTERVAL:   10143.566
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.0961   0.097513         0.011       10000         0     991
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   12635.952
+                                                          INTERVAL:    2492.385
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.4042   0.100749         0.259       10000         0    4008
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   14331.860
+                                                          INTERVAL:    1695.909
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.5857   0.099338         0.863       10000         0    5957
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   15880.481
+                                                          INTERVAL:    1548.621
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.6402   0.099150         1.066       10000         0    6406
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   17321.924
+                                                          INTERVAL:    1441.443
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.6944   0.100100         1.647       10000         0    7076
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   18704.931
+                                                          INTERVAL:    1383.006
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7376   0.102012         2.072       10000         0    7356
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   20087.420
+                                                          INTERVAL:    1382.490
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7206   0.099619         1.809       10000         0    7209
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   21355.482
+                                                          INTERVAL:    1268.061
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7806   0.098984         2.779       10000         0    7876
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   22612.128
+                                                          INTERVAL:    1256.646
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7947   0.099865         3.147       10000         0    7972
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   23875.815
+                                                          INTERVAL:    1263.687
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7770   0.098188         2.939       10000         0    7731
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   10044.711
+                                                          INTERVAL:   10044.711
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.1007   0.101106         0.011       10000         0    1035
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   12584.911
+                                                          INTERVAL:    2540.200
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.3955   0.100468         0.261       10000         0    3965
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   14253.566
+                                                          INTERVAL:    1668.655
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.5861   0.097801         0.845       10000         0    5952
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   15783.766
+                                                          INTERVAL:    1530.200
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.6512   0.099648         1.343       10000         0    6608
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   17224.077
+                                                          INTERVAL:    1440.312
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.6842   0.098543         1.478       10000         0    6841
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   18624.071
+                                                          INTERVAL:    1399.993
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7175   0.100448         1.729       10000         0    7132
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   19981.612
+                                                          INTERVAL:    1357.541
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7327   0.099468         2.021       10000         0    7369
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   21273.199
+                                                          INTERVAL:    1291.587
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7731   0.099858         3.085       10000         0    7770
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   22550.384
+                                                          INTERVAL:    1277.185
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7841   0.100145         2.690       10000         0    7922
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   23778.418
+                                                          INTERVAL:    1228.034
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7961   0.097761         2.927       10000         0    7985
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   10113.177
+                                                          INTERVAL:   10113.177
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.0990   0.100096         0.013       10000         0    1031
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   12590.243
+                                                          INTERVAL:    2477.067
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.4074   0.100922         0.279       10000         0    4065
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   14284.751
+                                                          INTERVAL:    1694.508
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.5843   0.099010         0.841       10000         0    5851
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   15840.447
+                                                          INTERVAL:    1555.696
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.6422   0.099907         1.173       10000         0    6488
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   17235.185
+                                                          INTERVAL:    1394.738
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7053   0.098374         1.696       10000         0    7108
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   18613.710
+                                                          INTERVAL:    1378.525
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7108   0.097990         1.646       10000         0    7015
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   19958.720
+                                                          INTERVAL:    1345.010
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7451   0.100215         2.256       10000         0    7467
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   21252.980
+                                                          INTERVAL:    1294.260
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7612   0.098525         2.219       10000         0    7573
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   22524.777
+                                                          INTERVAL:    1271.797
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7984   0.101546         3.138       10000         0    8035
+
+                             smpl SIMULATION REPORT
+
+
+ MODEL: M/M/1 Queue                                           TIME:   23787.821
+                                                          INTERVAL:    1263.044
+
+                           MEAN BUSY     MEAN QUEUE        OPERATION COUNTS
+ FACILITY          UTIL.     PERIOD        LENGTH     RELEASE   PREEMPT   QUEUE
+ server           0.7907   0.099865         3.257       10000         0    7928
